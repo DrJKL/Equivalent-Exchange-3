@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="ee3_common"/>
+	<classpathentry kind="lib" path="Releases/1.4.7/pre2/ee3-universal-pre2.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Minecraft"/>
+	<classpathentry kind="lib" path="/Minecraft/jars/bin/lwjgl.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
